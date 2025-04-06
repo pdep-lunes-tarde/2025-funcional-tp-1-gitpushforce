@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **gitPushForce**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2221585** 
+- Nombre: **Juan Manuel Bravo**
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
