@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: **2221585** 
 - Nombre: **Juan Manuel Bravo**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2139200** 
+- Nombre: **Hernán Muñiz**
 
 
 ## Objetivos
